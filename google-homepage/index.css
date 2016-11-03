@@ -1,0 +1,18 @@
+#above-search-tool {
+  height: 100px;
+}
+
+#image-above-search-tool {
+  height: 210px;
+  text-align: center;
+}
+
+#search-tool {
+  padding-top: 15px;
+  text-align: center;
+}
+
+#search-bar {
+  height: 25px;
+  width: 40%;
+}
