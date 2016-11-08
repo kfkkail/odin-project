@@ -8,11 +8,22 @@
 }
 
 #search-tool {
-  padding-top: 15px;
   text-align: center;
 }
 
 #search-bar {
-  height: 25px;
+  height: 35px;
   width: 40%;
+}
+
+#micDiv {
+  position: relative;
+  display: inline-block;
+  height: 35px;
+  right: 20px;
+}
+
+#mic {
+  height: 23px;
+  vertical-align: middle;
 }
