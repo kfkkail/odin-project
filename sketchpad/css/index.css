@@ -1,0 +1,8 @@
+.container {
+  height: 960px;
+  width: 960px;
+}
+
+.square {
+  display: inline-block;;
+}
