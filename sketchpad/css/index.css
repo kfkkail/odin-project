@@ -1,8 +1,11 @@
+.button {
+  text-align: center;
+}
+
 .container {
-  height: 960px;
-  width: 960px;
+  margin: 0 auto;
 }
 
 .square {
-  display: inline-block;;
+  float: left;
 }
