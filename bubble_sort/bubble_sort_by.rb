@@ -3,8 +3,6 @@ def bubble_sort_by(tosort)
     count = sorted.length
     while count > 0
         for i in 1..(count-1)
-            
-            puts count
             if yield(sorted[i-1], sorted[i]) > 0
                 #swap them
                 sorted[i], sorted[i-1] = sorted[i-1], sorted[i]
